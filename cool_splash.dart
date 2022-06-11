@@ -129,7 +129,7 @@ Widget LogoName() {
     child: const Align(
       alignment: Alignment(0.0, -0.2),
       child: Text(
-        "Dhatnoon",
+        "Logo name",
         style: TextStyle(
             color: Colors.white, fontWeight: FontWeight.bold, fontSize: 30),
       ),
